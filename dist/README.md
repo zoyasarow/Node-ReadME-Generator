@@ -4,7 +4,7 @@
 # Project Pride Month
 
 ## Description 
-This application allows for dyanmical scheduling of events, meetings and other occasions through a scheduling system that allows for folks working in LGBTQIA2+ & Queer Advocacy during the month of Pride (June) or any busy work time periods. The motivation for this project was to help scheudling become easier by having one application for most scheduling needs versus multiple applications. The challenge that this application works to alleviate is that of multiple time management applications. Through developing this application, the developers learned how to use nmp functionality and generateMarkdowns
+This application allows for dynamic scheduling of events, meetings and other occasions through a scheduling system that allows for folks working in LGBTQIA2+ & Queer Advocacy during the month of Pride (June) or any busy work time periods. The motivation for this project was to help scheduling become easier by having one application for most scheduling needs versus multiple applications. The challenge that this application works to alleviate is that of multiple time management applications. Through developing this application, the developers learned how to use npm functionality and generateMarkdowns
 
 ## Table of Contents
 * [Description of Application](#description)
@@ -16,7 +16,7 @@ This application allows for dyanmical scheduling of events, meetings and other o
 * [License](#license)
       
 ## Installation Instructions 
-To intall the project, npm inqurer and npm fs must be downloaded using the terminal
+To install the project, npm inquirer and npm fs must be downloaded using the terminal
       
 ## Usage Information 
 To use Project Pride Month, install npm inquirer and npm fs- as well as the code need to run the application. The application can be used on multiple devices.
