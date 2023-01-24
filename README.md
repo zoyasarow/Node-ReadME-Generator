@@ -1,6 +1,6 @@
-# Node-ReadME-Creator
+# Node-ReadME-Generator
 
-Link to watch application demo: https://drive.google.com/drive/folders/1Tx2c18_cxU2A7DJTzNEsbpi_zrbF7gWo?usp=sharing
+[Demo Video](https://drive.google.com/drive/folders/1Tx2c18_cxU2A7DJTzNEsbpi_zrbF7gWo?usp=sharing)
 
 This application uses HTML, Node.js & Node Module Inquirer
 
